@@ -1,5 +1,4 @@
-# Team-Agreement-Group1 
-## Clac Suite Project 
+# Team-Agreement-Group1  
 
 ---
 ### Table of Contents for algorithm and data structure :
